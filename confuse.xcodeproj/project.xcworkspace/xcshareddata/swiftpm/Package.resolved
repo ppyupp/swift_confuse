@@ -1,0 +1,60 @@
+{
+  "originHash" : "9a87cb0a0139b2bc7fb79ba90c9d23af52d3e1b6782ffbfb7db07ab329186328",
+  "pins" : [
+    {
+      "identity" : "aexml",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tadija/AEXML.git",
+      "state" : {
+        "revision" : "38f7d00b23ecd891e1ee656fa6aeebd6ba04ecc3",
+        "version" : "4.6.1"
+      }
+    },
+    {
+      "identity" : "pathkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kylef/PathKit.git",
+      "state" : {
+        "revision" : "3bfd2737b700b9a36565a8c94f4ad2b050a5e574",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "spectre",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kylef/Spectre.git",
+      "state" : {
+        "revision" : "26cc5e9ae0947092c7139ef7ba612e34646086c7",
+        "version" : "0.10.1"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "state" : {
+        "revision" : "303e5c5c36d6a558407d364878df131c3546fad8",
+        "version" : "510.0.2"
+      }
+    },
+    {
+      "identity" : "syntaxsparrow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CheekyGhost-Labs/SyntaxSparrow",
+      "state" : {
+        "revision" : "accf36df8fdc9db1cca97c02407b3cd12b07be2e",
+        "version" : "4.2.0"
+      }
+    },
+    {
+      "identity" : "xcodeproj",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tuist/xcodeproj.git",
+      "state" : {
+        "revision" : "babd2491ea34777bec9d33381a60cd782559b4b3",
+        "version" : "8.24.1"
+      }
+    }
+  ],
+  "version" : 3
+}
